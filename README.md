@@ -11,7 +11,7 @@ React + Vite frontend connected to backend authentication APIs.
 
 Copy `.env.example` to `.env` and set:
 
-- `VITE_API_BASE_URL` (example: `http://localhost:3000`)
+- `VITE_API_BASE_URL` (example: `https://test-be-6kg8.onrender.com`)
 
 ## Run
 
